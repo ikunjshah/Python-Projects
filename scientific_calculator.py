@@ -10,12 +10,10 @@ root.title("Scientific Calculator")
 root.configure(background = 'white')
 root.resizable(width=False, height=False)
 root.geometry("480x568+450+90")
-#root.iconbitmap(r'D:\A Electrical Engineering Data\1st Semester\Python\Spyder\Lab\Calculator\Wwalczyszyn-Android-Style-Honeycomb-Calculator.ico')
 
 calc = Frame(root)
 calc.grid()
 
-# ===================================================================================================== #
 
 # Here are the Classes for all the Buttons in the Scientific Calculator.
 
